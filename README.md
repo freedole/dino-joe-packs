@@ -9,7 +9,7 @@ Community content for **[Dino Joe - Desktop Pet](https://github.com/freedole/din
 ```
 jokes/<language>/<pack-id>/
   pack.ini        # id, name, lang, author, version, license, description, tags
-                  # optional: weight.<category>=10, keywords.<category>=word1,word2
+                  # optional per category: weight.<category>=10, keywords.<category>=word1,word2
   jokes/*.txt     # one joke per line; file name = category; lines starting with # are ignored
   keywords.ini    # optional: <category>=word1,word2 (keywords for offline chat)
 skins/            # coming soon
