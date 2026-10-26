@@ -8,16 +8,17 @@ Community content for **[Dino Joe - Desktop Pet](https://github.com/freedole/din
 
 ```
 jokes/<language>/<pack-id>/
-  pack.ini        # id, naziv (name), jezik (language), autor, verzija, licenca, opis, tagovi
-  fore/*.txt      # one joke per line; file name = category; lines starting with # are ignored
-  kljucne.ini     # optional: keywords for offline chat
+  pack.ini        # id, name, lang, author, version, license, description, tags
+                  # optional: weight.<category>=10, keywords.<category>=word1,word2
+  jokes/*.txt     # one joke per line; file name = category; lines starting with # are ignored
+  keywords.ini    # optional: <category>=word1,word2 (keywords for offline chat)
 skins/            # coming soon
 personalities/    # coming soon
 ```
 
 Languages: `sr-ijek`, `sr-ekav`, `bs`, `hr`, `en`.
 
-Special categories (not picked at random): `hrana` (feeding), `bockanje` (click), `naocale` (glasses), `pile` (chick).
+Special categories (not picked at random): `hrana.txt` (feeding), `bockanje.txt` (click), `naocale.txt` (glasses), `pile.txt` (chick).
 
 ## Rules
 
