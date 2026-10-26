@@ -6,7 +6,7 @@
    "id": "dino-joe-basic-en",
    "name": "Dino Joe Basic",
    "lang": "en",
-   "version": "0.1.0",
+   "version": "1.0.0",
    "author": "freedole",
    "description": "Common pool: dino, office, weekdays, coffee, IT, family, life.",
    "personality": "",
@@ -66,7 +66,214 @@
     {
      "path": "pack.ini",
      "size": 348,
-     "sha256": "70d859be7dc8fa077334a9fbeb49a6eeaa19281e83a55a5fa84b914d9cd8d8df"
+     "sha256": "9ba9b8389f9f94e349442f34a0cf9b8440749b625075f97ad60cbf9b10aef64b"
+    }
+   ]
+  },
+  {
+   "id": "personality-balkanac-en",
+   "name": "Personality: Balkan Uncle",
+   "lang": "en",
+   "version": "1.0.0",
+   "author": "freedole",
+   "description": "Personality jokes, active only while this personality is selected.",
+   "personality": "balkanac",
+   "jokes": 30,
+   "dir": "jokes/en/personality-balkanac-en",
+   "files": [
+    {
+     "path": "jokes/balkanac.txt",
+     "size": 1704,
+     "sha256": "0ba9c2fd6050e15b68f3a1cd932c3137351ebbb7d9a6724dc2ae056ba6af2cd4"
+    },
+    {
+     "path": "pack.ini",
+     "size": 291,
+     "sha256": "c9d7e6a626fe16314e2b225a2d7c50785604a44789a70233896f89923d2b0267"
+    }
+   ]
+  },
+  {
+   "id": "personality-deda-en",
+   "name": "Personality: Grandpa",
+   "lang": "en",
+   "version": "1.0.0",
+   "author": "freedole",
+   "description": "Personality jokes, active only while this personality is selected.",
+   "personality": "deda",
+   "jokes": 30,
+   "dir": "jokes/en/personality-deda-en",
+   "files": [
+    {
+     "path": "jokes/deda.txt",
+     "size": 1851,
+     "sha256": "67c8f47049c1859f2b98bb1b6b853e91b642d2723e1df64b34e4ad0afba3c55c"
+    },
+    {
+     "path": "pack.ini",
+     "size": 270,
+     "sha256": "09081ef16b1262ce989d2322f649183a6cd0e6bd113aff80246381bce1d79df0"
+    }
+   ]
+  },
+  {
+   "id": "personality-diva-en",
+   "name": "Personality: Drama Queen",
+   "lang": "en",
+   "version": "1.0.0",
+   "author": "freedole",
+   "description": "Personality jokes, active only while this personality is selected.",
+   "personality": "diva",
+   "jokes": 30,
+   "dir": "jokes/en/personality-diva-en",
+   "files": [
+    {
+     "path": "jokes/diva.txt",
+     "size": 1565,
+     "sha256": "00dd2f88f3535d88c84e5bb94312707d3f5a760c450e3a2c10c9bdc26ff629cb"
+    },
+    {
+     "path": "pack.ini",
+     "size": 274,
+     "sha256": "d9abe8529879580ab55174ac198417659a2977f5e3bb950e44451059c66a7710"
+    }
+   ]
+  },
+  {
+   "id": "personality-filozof-en",
+   "name": "Personality: Philosopher",
+   "lang": "en",
+   "version": "1.0.0",
+   "author": "freedole",
+   "description": "Personality jokes, active only while this personality is selected.",
+   "personality": "filozof",
+   "jokes": 30,
+   "dir": "jokes/en/personality-filozof-en",
+   "files": [
+    {
+     "path": "jokes/filozof.txt",
+     "size": 1908,
+     "sha256": "f3337879fa011b614c7c8045801ebad24a9ba73600d196d62224961e3bfebe0d"
+    },
+    {
+     "path": "pack.ini",
+     "size": 286,
+     "sha256": "fa32f50f00dcc783d9e65612f1b4d318d63acfce047a2e9bd57e23b02c1473b8"
+    }
+   ]
+  },
+  {
+   "id": "personality-gamer-en",
+   "name": "Personality: Gamer",
+   "lang": "en",
+   "version": "1.0.0",
+   "author": "freedole",
+   "description": "Personality jokes, active only while this personality is selected.",
+   "personality": "gamer",
+   "jokes": 30,
+   "dir": "jokes/en/personality-gamer-en",
+   "files": [
+    {
+     "path": "jokes/gamer.txt",
+     "size": 1467,
+     "sha256": "a0c0335e74b1a00e7a3d5cd1de81607ea316e5606986928c9cb5791c897d000d"
+    },
+    {
+     "path": "pack.ini",
+     "size": 272,
+     "sha256": "cd1b11466b6931822c041d487b810706140e3e97d8420a038a80b6c0665de38a"
+    }
+   ]
+  },
+  {
+   "id": "personality-informaticar-en",
+   "name": "Personality: IT Guy",
+   "lang": "en",
+   "version": "1.0.0",
+   "author": "freedole",
+   "description": "Personality jokes, active only while this personality is selected.",
+   "personality": "informaticar",
+   "jokes": 30,
+   "dir": "jokes/en/personality-informaticar-en",
+   "files": [
+    {
+     "path": "jokes/informaticar.txt",
+     "size": 1902,
+     "sha256": "cf4632d73e98b57c392b29ab60ddea7179b1df957f33bd2e2c3d508ea78c7085"
+    },
+    {
+     "path": "pack.ini",
+     "size": 301,
+     "sha256": "d453efb0e848c6f09f99028e34cbc20a27252e89e0d851678ed9bddf3bd89c0e"
+    }
+   ]
+  },
+  {
+   "id": "personality-kancelarija-en",
+   "name": "Personality: Office Worker",
+   "lang": "en",
+   "version": "1.0.0",
+   "author": "freedole",
+   "description": "Personality jokes, active only while this personality is selected.",
+   "personality": "kancelarija",
+   "jokes": 30,
+   "dir": "jokes/en/personality-kancelarija-en",
+   "files": [
+    {
+     "path": "jokes/kancelarija.txt",
+     "size": 1773,
+     "sha256": "560529f4d8fcc4e83fe73123037163a04647c02773eb8128509cb900dda0ffea"
+    },
+    {
+     "path": "pack.ini",
+     "size": 304,
+     "sha256": "93dcec5735fe6d980e52198b8cdd597168aabef4c6404b6243ab9b2ec43f5882"
+    }
+   ]
+  },
+  {
+   "id": "personality-tamagotchi-en",
+   "name": "Personality: Hardcore Tamagotchi",
+   "lang": "en",
+   "version": "1.0.0",
+   "author": "freedole",
+   "description": "Personality jokes, active only while this personality is selected.",
+   "personality": "tamagotchi",
+   "jokes": 30,
+   "dir": "jokes/en/personality-tamagotchi-en",
+   "files": [
+    {
+     "path": "jokes/tamagotchi.txt",
+     "size": 572,
+     "sha256": "dc59aa3b4f5a822693d90a3ab42b59d2964501339dcff7d119d87e69918e67f3"
+    },
+    {
+     "path": "pack.ini",
+     "size": 306,
+     "sha256": "ecce7cdae4ca65490a93dcdc8b65382d5689520f511d836e7a97c5d8cbfdd836"
+    }
+   ]
+  },
+  {
+   "id": "personality-tinejdzer-en",
+   "name": "Personality: Teenager",
+   "lang": "en",
+   "version": "1.0.0",
+   "author": "freedole",
+   "description": "Personality jokes, active only while this personality is selected.",
+   "personality": "tinejdzer",
+   "jokes": 30,
+   "dir": "jokes/en/personality-tinejdzer-en",
+   "files": [
+    {
+     "path": "jokes/tinejdzer.txt",
+     "size": 1648,
+     "sha256": "44f7787aae02ed48118967733d1eda34919a6fb305347985b1e99786e41f2201"
+    },
+    {
+     "path": "pack.ini",
+     "size": 291,
+     "sha256": "240b38b9d644a3d79b9876bcfa48c6f27b957a168b1be89b8f3ca5e5e3ae008b"
     }
    ]
   },
@@ -74,7 +281,7 @@
    "id": "dino-joe-basic-sr",
    "name": "Dino Joe osnovno",
    "lang": "sr-ijek",
-   "version": "0.1.0",
+   "version": "1.0.0",
    "author": "freedole",
    "description": "Zajednički bazen: dino, kancelarija, dani u sedmici, kafa, IT, Balkan, život.",
    "personality": "",
@@ -83,48 +290,48 @@
    "files": [
     {
      "path": "jokes/balkan.txt",
-     "size": 1428,
-     "sha256": "d73187afb23dc2ce143af2aa2b93cca96e332152a4ff47216bf9c8c27de301c7"
+     "size": 1445,
+     "sha256": "7d473e2d71b5d4edf36b80125fea48f8ea965c3066fae4c379f858846fc790c2"
     },
     {
      "path": "jokes/coffee.txt",
-     "size": 959,
-     "sha256": "13af65a4c85a6679d4f20df3450fce8abcf8f08fae243c9aa7d2b2394d0e4a48"
+     "size": 982,
+     "sha256": "1b033ba3f59823c07b4ab7433761ff168e6bc70fbf5ed26f59f5b7e36d1aecc5"
     },
     {
      "path": "jokes/days.txt",
-     "size": 911,
-     "sha256": "e73020137def7d9ce6f89516581eafc505993cce01906eabcdce3250759cf7e9"
+     "size": 928,
+     "sha256": "1fc121486c90d10063404d8ab0445ea636cad14021f98f30c631c7049fe54c10"
     },
     {
      "path": "jokes/dino.txt",
-     "size": 1272,
-     "sha256": "d5e2f2826b46f500a841f15c28cdbfbf768d4178dc01c8e71fb85eee0738b609"
+     "size": 1353,
+     "sha256": "21463d2cc0a311281e3acbcc3461929df66028b5032540886a8905b0eb7b3409"
     },
     {
      "path": "jokes/food.txt",
-     "size": 445,
-     "sha256": "3c45805f2b0d9847a6d953245b4c210636b1ee2d86c466b8513dd5a471a6dff0"
+     "size": 475,
+     "sha256": "8adf15823bd4f0b14f528aa1ab0adeb5f22bc3f75c96d0dea4d7caa81d8e053b"
     },
     {
      "path": "jokes/it.txt",
-     "size": 1263,
-     "sha256": "fe90869a720ea9e06267fa10262e725cd6fdafbc502ada09ed1ee58fa8d20953"
+     "size": 1305,
+     "sha256": "7d879f0ef5d7300ceac62f87542d0b753aa475f7e7c2d6baff13872fb87a7855"
     },
     {
      "path": "jokes/life.txt",
-     "size": 973,
-     "sha256": "cad2e617eb29964fe51b3433e5f0d33328b47782cc883dea6d90dc6a6c6108c5"
+     "size": 976,
+     "sha256": "ed91c2adf646423b4b15551c316a331ec0c9d27f951175afdc1b8e31a6f2ea5f"
     },
     {
      "path": "jokes/office.txt",
-     "size": 1206,
-     "sha256": "b134127862165d90ae119830bd94107825d82ad64a89694ed20a5485e96dfa7b"
+     "size": 1219,
+     "sha256": "a3670812fbe52c62de1cbe85fe216401cdbecc815b5ec8e102aba045183e9293"
     },
     {
      "path": "jokes/poke.txt",
-     "size": 307,
-     "sha256": "4a9f04c5c298cc0486d108a2f7126569ec88df6d2193a133a21e36f50b799d46"
+     "size": 323,
+     "sha256": "6f4f6efe6462df5f58813701b4dc07c72da7c43b3d37e47980e784150ba8ffbf"
     },
     {
      "path": "keywords.ini",
@@ -134,7 +341,35 @@
     {
      "path": "pack.ini",
      "size": 372,
-     "sha256": "688e79c522a95582396faca8ab7448b841a68048bfa0c781f067b8a6109d38b7"
+     "sha256": "d9d2c3d226866160e47f195e6f82ea08f3451f104335c17c26b6be9ba733dc70"
+    }
+   ]
+  },
+  {
+   "id": "motoristi-sr",
+   "name": "Motoristi",
+   "lang": "sr-ijek",
+   "version": "1.0.0",
+   "author": "freedole",
+   "description": "Fore za motoriste: lanac, gume, kaciga, kiša, servis i \"samo do benzinske\".",
+   "personality": "",
+   "jokes": 40,
+   "dir": "jokes/sr-ijek/motoristi-sr",
+   "files": [
+    {
+     "path": "jokes/moto.txt",
+     "size": 2388,
+     "sha256": "c797d408bb37a69d9bebb5fc83f8a3a13e4e92356b1588287bfcaecd6c038ced"
+    },
+    {
+     "path": "keywords.ini",
+     "size": 126,
+     "sha256": "034419687237bdecfb8b25125097e8ba353c820b35689c4399c443e9826079af"
+    },
+    {
+     "path": "pack.ini",
+     "size": 253,
+     "sha256": "9e033aff7606a1fe5efa4226957288b7ccf1737133d28bb87c8fffe1febdb51c"
     }
    ]
   },
@@ -142,7 +377,7 @@
    "id": "odjordje-classic",
    "name": "ODjordje klasik",
    "lang": "sr-ijek",
-   "version": "0.1.0",
+   "version": "1.0.0",
    "author": "freedole",
    "description": "Originalne ODjordje fore: dino, IT, naočale, pile, hrana.",
    "personality": "",
@@ -151,38 +386,38 @@
    "files": [
     {
      "path": "jokes/chick.txt",
-     "size": 290,
-     "sha256": "6f48033360eb03df9d7e4dc99c0e403f99fd337af58afc016360b65275ab4a27"
+     "size": 283,
+     "sha256": "457d829e3fdb1a0f18502bdb4c88b50abbbf7e59994a341904336672fcd9defc"
     },
     {
      "path": "jokes/dino.txt",
-     "size": 982,
-     "sha256": "abc5efdfa83fe766f187e46edf140e8d126585c494a43db66d551defd84228eb"
+     "size": 990,
+     "sha256": "10add0514d7f03d64d66a1ac63203965b254aabe725d1637fa1139dd1bd04d46"
     },
     {
      "path": "jokes/food.txt",
-     "size": 217,
-     "sha256": "cb2a2a99e02bd8fcd160dc43475d027f91ab0042ecf576e5ee18c58925c6dbca"
+     "size": 211,
+     "sha256": "8318d40dfa6806830669316bee2ed49fd9000e0a9203f14ec33443f7ebb6d518"
     },
     {
      "path": "jokes/glasses.txt",
-     "size": 360,
-     "sha256": "183bb5bffa7a21f1a59e1a1acf3ea425147a4d4d8565e8990472fe23991d60a8"
+     "size": 352,
+     "sha256": "f6aafafec117110fc7e3e8a1c6edccf5c30f5973b4d943ade4fce50a396d0ed6"
     },
     {
      "path": "jokes/it.txt",
-     "size": 781,
-     "sha256": "d6d8a337a3f3ebab08ce84ed8360ec5bbfee8c18306309f698ec7c74da27cf9a"
+     "size": 794,
+     "sha256": "f2c6a3279228e9360feb7a0930e489749fd10b2ad9eae5433e49098697afc4c5"
     },
     {
      "path": "jokes/poke.txt",
-     "size": 161,
-     "sha256": "cfd060c957f010ae673b3e42f5f9518ac47be5964508563c8bdf6108b514c164"
+     "size": 154,
+     "sha256": "e459d6ab8b0347a8be34754187d7e9210b9a51dd7d2b8e0e6dce91df891b865d"
     },
     {
      "path": "pack.ini",
      "size": 226,
-     "sha256": "8974e2c9f7ed417c89c09600b2932109dc3b2a7cf3242c0e9ea6a72165f23a86"
+     "sha256": "9c4da2b0d17b77456fda83a9dfa752dc186d3d7c92044261945aa635dfd98cb5"
     }
    ]
   },
@@ -190,7 +425,7 @@
    "id": "personality-balkanac-sr",
    "name": "Ličnost: Balkanac",
    "lang": "sr-ijek",
-   "version": "0.1.0",
+   "version": "1.0.0",
    "author": "freedole",
    "description": "Fore za ličnost, aktivne samo dok je ta ličnost izabrana.",
    "personality": "balkanac",
@@ -199,13 +434,13 @@
    "files": [
     {
      "path": "jokes/balkanac.txt",
-     "size": 1545,
-     "sha256": "be8e1383e225460bb1826a9808f27b19d734e29fb194946dbf2efb49d95c9f2a"
+     "size": 1557,
+     "sha256": "edd2804a965a1bf9e55480534b023effcc1729190f9fe81557e9a56621023829"
     },
     {
      "path": "pack.ini",
      "size": 282,
-     "sha256": "7acceaab65d16264cd072e912c1926153d693733f70132ed30039427327f39e5"
+     "sha256": "1577efe5f2c8675cc86ced3bf08e4c355e45cd414228338f1eadcb8f7c7abf67"
     }
    ]
   },
@@ -213,7 +448,7 @@
    "id": "personality-deda-sr",
    "name": "Ličnost: Deda / Penzioner",
    "lang": "sr-ijek",
-   "version": "0.1.0",
+   "version": "1.0.0",
    "author": "freedole",
    "description": "Fore za ličnost, aktivne samo dok je ta ličnost izabrana.",
    "personality": "deda",
@@ -222,13 +457,13 @@
    "files": [
     {
      "path": "jokes/deda.txt",
-     "size": 1869,
-     "sha256": "becaf720a8357c43702a3105dac952428ffa803a2dde3b78758fe061fd05a07e"
+     "size": 1930,
+     "sha256": "da16933ca674f46782ba4de2fb4cea254922d0dcd564eb2d957d6ebe82745656"
     },
     {
      "path": "pack.ini",
      "size": 274,
-     "sha256": "b429ca4d962d7c9695277beffc8f442735713cb435bbf7d2665575ca7649bffd"
+     "sha256": "1bf8e1d395777325c448910b47b98a89ef9e108dfdeac10bcb0c5e4ba81fce8d"
     }
    ]
   },
@@ -236,7 +471,7 @@
    "id": "personality-diva-sr",
    "name": "Ličnost: Diva",
    "lang": "sr-ijek",
-   "version": "0.1.0",
+   "version": "1.0.0",
    "author": "freedole",
    "description": "Fore za ličnost, aktivne samo dok je ta ličnost izabrana.",
    "personality": "diva",
@@ -245,13 +480,13 @@
    "files": [
     {
      "path": "jokes/diva.txt",
-     "size": 1470,
-     "sha256": "19f8f46cddb59814ad73c1610f418708fec3c6c3ba67551f63c21e6c6aafbef8"
+     "size": 1530,
+     "sha256": "b4c468b421f6dd737a8a1337a46e5559f1725e0025b10b86193dd349a639bb28"
     },
     {
      "path": "pack.ini",
      "size": 262,
-     "sha256": "018fead214b3c065284fdaeecd74183fee2736c126eb0788e041eab41c6cb2d3"
+     "sha256": "4f8f3a540c3f72927d4c0f2a66010842fcfd74a650630faa7c67882f00b68fbf"
     }
    ]
   },
@@ -259,7 +494,7 @@
    "id": "personality-filozof-sr",
    "name": "Ličnost: Filozof",
    "lang": "sr-ijek",
-   "version": "0.1.0",
+   "version": "1.0.0",
    "author": "freedole",
    "description": "Fore za ličnost, aktivne samo dok je ta ličnost izabrana.",
    "personality": "filozof",
@@ -268,13 +503,13 @@
    "files": [
     {
      "path": "jokes/filozof.txt",
-     "size": 1791,
-     "sha256": "7da8930f62e616f82ad0e25554ea3e0a504f50e825fba026597560f2656fb04c"
+     "size": 1802,
+     "sha256": "6dcbb1ca249c43e49288979740245c837763bd80f92cf3dc113507bf7fdb0a58"
     },
     {
      "path": "pack.ini",
      "size": 277,
-     "sha256": "53521865132fd15d6766feedb4de115b5bcd579af9ef07e3d2c4ee346e01a36e"
+     "sha256": "d22683712ad42f17db8510815ebd856aa15c380ab19810320dc87c0b67b41841"
     }
    ]
   },
@@ -282,7 +517,7 @@
    "id": "personality-gamer-sr",
    "name": "Ličnost: Gamer",
    "lang": "sr-ijek",
-   "version": "0.1.0",
+   "version": "1.0.0",
    "author": "freedole",
    "description": "Fore za ličnost, aktivne samo dok je ta ličnost izabrana.",
    "personality": "gamer",
@@ -291,13 +526,13 @@
    "files": [
     {
      "path": "jokes/gamer.txt",
-     "size": 1482,
-     "sha256": "bc13be215f0be6bfb75ba34f38420da60e4318f46b8bdde3d012d3e9590129da"
+     "size": 1540,
+     "sha256": "d98f300255676c7938b5abb390740817556f4e536c27c73b7884d76ee4decd9f"
     },
     {
      "path": "pack.ini",
      "size": 267,
-     "sha256": "4b44da86f0cc2e6488d4dd0f8ebd27e63e95072c2693ad3df77128d620cd0abd"
+     "sha256": "41842d1c08fa581918f657259fc2c310c9c596defab0dcf8c86d0ce913be6429"
     }
    ]
   },
@@ -305,7 +540,7 @@
    "id": "personality-informaticar-sr",
    "name": "Ličnost: Informatičar",
    "lang": "sr-ijek",
-   "version": "0.1.0",
+   "version": "1.0.0",
    "author": "freedole",
    "description": "Fore za ličnost, aktivne samo dok je ta ličnost izabrana.",
    "personality": "informaticar",
@@ -314,13 +549,13 @@
    "files": [
     {
      "path": "jokes/informaticar.txt",
-     "size": 1847,
-     "sha256": "cdc77c359bd906448ea3bdc451ed6a1ba8461fb03e34131f607bff3029036747"
+     "size": 1890,
+     "sha256": "253fe56396b1fa40c35c4b348be04e3182251d9ae8f21f0bcfae74fc94d1e72b"
     },
     {
      "path": "pack.ini",
      "size": 303,
-     "sha256": "d377c962cf8eb3410cecb0a147f6dbab41363a864d4d72b32614f43a04f49153"
+     "sha256": "b6bb55f73fd6f3c5f5ddcaa32aced47bc8a0660706d8ef1b2218674fc7652417"
     }
    ]
   },
@@ -328,7 +563,7 @@
    "id": "personality-kancelarija-sr",
    "name": "Ličnost: Kancelarijski",
    "lang": "sr-ijek",
-   "version": "0.1.0",
+   "version": "1.0.0",
    "author": "freedole",
    "description": "Fore za ličnost, aktivne samo dok je ta ličnost izabrana.",
    "personality": "kancelarija",
@@ -337,13 +572,13 @@
    "files": [
     {
      "path": "jokes/kancelarija.txt",
-     "size": 1841,
-     "sha256": "59d1af9443a3e20af24d921f4c9687cac4624f71d92281976cbfb2689eda0305"
+     "size": 1888,
+     "sha256": "4a192193855467b2fb0b93d36475f3678758e67186091c3b958a8b6b2b945779"
     },
     {
      "path": "pack.ini",
      "size": 299,
-     "sha256": "7b2b9ea81cbdc0b2d9772355b63fe67d0215ab09dbb73020e3b04d81fc1d7fb0"
+     "sha256": "3312c5cf6bd4b9006825869cd211acccc23456a1a739ed857040daec4896ca8d"
     }
    ]
   },
@@ -351,7 +586,7 @@
    "id": "personality-tamagotchi-sr",
    "name": "Ličnost: Hardcore Tamagotchi",
    "lang": "sr-ijek",
-   "version": "0.1.0",
+   "version": "1.0.0",
    "author": "freedole",
    "description": "Fore za ličnost, aktivne samo dok je ta ličnost izabrana.",
    "personality": "tamagotchi",
@@ -360,13 +595,13 @@
    "files": [
     {
      "path": "jokes/tamagotchi.txt",
-     "size": 564,
-     "sha256": "e980e05ff8401b2792ef03cfd34b50863c8eb6422a6b550b6bdef8c666f21c25"
+     "size": 630,
+     "sha256": "f0fb7a789d1e8507c8f52d70865d1a94b36d7af4a056d20c73f2451dc499bc58"
     },
     {
      "path": "pack.ini",
      "size": 301,
-     "sha256": "2d394ea293f7a99540685f88ee6914e566938b958618353cc8ff3db485ad7bef"
+     "sha256": "49f19a072ac80148c6da039dddff125b76385da063b7e9caff5c74515360a507"
     }
    ]
   },
@@ -374,7 +609,7 @@
    "id": "personality-tinejdzer-sr",
    "name": "Ličnost: Tinejdžer",
    "lang": "sr-ijek",
-   "version": "0.1.0",
+   "version": "1.0.0",
    "author": "freedole",
    "description": "Fore za ličnost, aktivne samo dok je ta ličnost izabrana.",
    "personality": "tinejdzer",
@@ -383,13 +618,13 @@
    "files": [
     {
      "path": "jokes/tinejdzer.txt",
-     "size": 1588,
-     "sha256": "9e0e7a95129ee2199cba6e5e05a93f5ddc4779bdb49a1f944e1f52d1e0890b19"
+     "size": 1670,
+     "sha256": "75912b68638b2a4a68cc4e62b4e9e635b285850febcccba2eb758ae7559abd7a"
     },
     {
      "path": "pack.ini",
      "size": 288,
-     "sha256": "740910ad72f0294710e74bb35c1675cdc3d5114c21a43b0fa531112431474431"
+     "sha256": "43faaf90b29f2a4d0efe0a1c09a7ebb5276d67db253be64660ef4c8ba4dc6f34"
     }
    ]
   }

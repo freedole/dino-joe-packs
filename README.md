@@ -20,6 +20,14 @@ Languages: `sr-ijek`, `sr-ekav`, `bs`, `hr`, `en`.
 
 Special categories (not picked at random): `food.txt` (when fed), `poke.txt` (when clicked), `glasses.txt` (glasses on), `chick.txt` (chick visits).
 
+## Male / female
+
+ODjordje has a female version (ODjordjina). Write gendered words as `{male|female}` and the app picks the right one:
+
+```
+{Rekao|Rekla} sam meteoru "biće to sutra".
+```
+
 ## Rules
 
 - One joke per line, max ~200 characters (it is shown in a speech bubble).
