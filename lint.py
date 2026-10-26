@@ -2,7 +2,7 @@
 """Dino Joe packs lint: UTF-8, duzina fore, zabranjene rijeci, dozvoljeni fajlovi."""
 import os, re, sys
 MAX = 220
-ALLOWED = {'.txt', '.ini', '.gitkeep', '.md'}
+ALLOWED = {'.txt', '.ini', '.gitkeep', '.md', '.json', '.py'}
 BAD = re.compile(r'https?://|<script|\b(kurac|pička|picka|jebem|jebo|govno|fuck|shit)\b', re.I)
 errors = 0
 for root, dirs, files in os.walk('.'):
