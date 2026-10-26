@@ -18,7 +18,7 @@ personalities/    # coming soon
 
 Languages: `sr-ijek`, `sr-ekav`, `bs`, `hr`, `en`.
 
-Special categories (not picked at random): `hrana.txt` (feeding), `bockanje.txt` (click), `naocale.txt` (glasses), `pile.txt` (chick).
+Special categories (not picked at random): `food.txt` (when fed), `poke.txt` (when clicked), `glasses.txt` (glasses on), `chick.txt` (chick visits).
 
 ## Rules
 
