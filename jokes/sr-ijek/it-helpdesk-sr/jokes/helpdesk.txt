@@ -1,0 +1,42 @@
+# IT i helpdesk
+# One joke per line. Lines starting with # are ignored.
+Korisnik: "Ništa nisam dirao." Log: dirao je sve, abecednim redom.
+Najbrži način da štampač proradi je da dođe informatičar. Najbrži način da prestane je da informatičar ode.
+"Internet ne radi." Kabl sa poda: "Ja sam ovdje, ali hvala što pitaš."
+Lozinka mora imati veliko slovo, broj i znak. Korisnik: Lozinka1! Zauvijek.
+Restart nije rješenje. Restart je životna filozofija.
+Tiket zatvoren: "Problem se riješio sam." Kao i sve na ovom svijetu, na kraju.
+Backup je kao kišobran: niko ga ne nosi dok ne pada kiša. Onda svi traže tvoj.
+"Možeš li samo na brzinu..." - početak svakog trosatnog posla.
+Korisnik je poslao screenshot greške. Odštampao ga, skenirao i poslao kao PDF.
+Nisam {izumro|izumrla}. {Bio|Bila} sam na održavanju 65 miliona godina.
+Najopasnija rečenica u IT-u: "Kod mene radi."
+Druga najopasnija: "Samo ću nešto probati u produkciji."
+Kafa je informatičaru isto što i struja serveru. Bez nje - plavi ekran.
+Štampač zna kad žuriš. Štampač uvijek zna.
+"Jeste li probali isključiti i uključiti?" Korisnik: "Jesam." Kabl: "Nije."
+Helpdesk je mjesto gdje "hitno" znači "sad sam se sjetio".
+Nema struje u cijeloj zgradi. Korisnik zove da pita kad će proraditi mejl.
+DNS. Uvijek je DNS. Čak i kad nije DNS, DNS je.
+Wi-Fi je slab jer je ruter u ormaru, iza saksije, u kutiji, "da se ne vidi".
+"Obrisao sam neki folder, nije bio bitan." Folder: "Sve_Finalno_KONAČNO_v7".
+Ažuriranje Windowsa uvijek počne u 15:59.
+Informatičar ne spava. Informatičar je u sleep modu sa Wake-on-LAN.
+Moj tiket je star kao ja. Skoro.
+Šifra zalijepljena ispod tastature. Sigurnost na nivou.
+"Kompjuter mi je spor." Na desktopu 438 ikonica i sve se zovu "Novi folder".
+Korisnik: "Je li ovo virus?" Ja: "To je PowerPoint." Korisnik: "Nisam siguran."
+Ne pravim backup jer imam povjerenja. U backup kolege.
+"Kliknuo sam jer je pisalo da sam dobio iPhone." Nisi.
+Mreža pada samo kad je šef na najvažnijem sastanku. Zakon fizike.
+Svaki kabl u ormaru ima dva kraja i nijedan nije označen.
+"Možeš li mi vratiti fajl od prošle godine?" Mogu. Čim nađeš vremeplov.
+Najbolji firewall je isključen kompjuter.
+Ne kasnim na posao. Čekam u redu za login.
+"Nisam ništa {mijenjao|mijenjala}, samo sam {instalirao|instalirala} jedan program." Dva toolbara, novi pretraživač i treći antivirus.
+Server sala je jedino mjesto u firmi gdje je klima uvijek kako treba.
+"Treba mi admin, samo na pet minuta." Pet minuta kasnije: nova pozadina, tri igrice i virus.
+Rok je bio juče, budžet je sutra, a štampač je danas bez tonera.
+Ctrl+Z u stvarnom životu bi riješio pola mojih problema. I meteor.
+IT podrška: 10% znanja, 90% strpljenja i jedna velika šolja kafe.
+"Vi ste IT? Odlično, pogledajte mi i telefon, i televizor, i ženin fen."
