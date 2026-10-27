@@ -346,6 +346,34 @@
    ]
   },
   {
+   "id": "gameri-sr",
+   "name": "Gameri",
+   "lang": "sr-ijek",
+   "version": "1.0.0",
+   "author": "freedole",
+   "description": "Fore za gamere: lag, respawn, \"još jedna partija\", patch, boss fight i mama koja zove na ručak.",
+   "personality": "",
+   "jokes": 40,
+   "dir": "jokes/sr-ijek/gameri-sr",
+   "files": [
+    {
+     "path": "jokes/gaming.txt",
+     "size": 2358,
+     "sha256": "5e3f3e82473043e5399c89752e7a5bd0d47e79ed98e5f0b7cbafb1b554a34d1b"
+    },
+    {
+     "path": "keywords.ini",
+     "size": 74,
+     "sha256": "a6cea138690b659adfde42844000b3b0d189eb6e7755e23a9bd92052871d07b4"
+    },
+    {
+     "path": "pack.ini",
+     "size": 267,
+     "sha256": "a451db07dd4db7ac55f64649566f81c16f8faa47acd8f28d6b364093af1b52fd"
+    }
+   ]
+  },
+  {
    "id": "geodeta-sr",
    "name": "Geodete",
    "lang": "sr-ijek",
@@ -398,6 +426,62 @@
      "path": "pack.ini",
      "size": 296,
      "sha256": "4eac147a1acc06f7243ec9191087726df0fad667d92fc9489017d895277118d7"
+    }
+   ]
+  },
+  {
+   "id": "konobari-sr",
+   "name": "Konobari",
+   "lang": "sr-ijek",
+   "version": "1.0.0",
+   "author": "freedole",
+   "description": "Fore za konobare: \"samo kafa\", bakšiš, gužva petkom, sto broj 7 i \"mi smo tek došli\".",
+   "personality": "",
+   "jokes": 40,
+   "dir": "jokes/sr-ijek/konobari-sr",
+   "files": [
+    {
+     "path": "jokes/kafana.txt",
+     "size": 2649,
+     "sha256": "db2ff738b40ee427dbd714f85ba7467f2d25470523b7e3a4e7e24cc478e7dee3"
+    },
+    {
+     "path": "keywords.ini",
+     "size": 74,
+     "sha256": "8c5e2429a9ba82352ddc1076d4f1376bbba325b79603c60086c2fa6c81996bbc"
+    },
+    {
+     "path": "pack.ini",
+     "size": 283,
+     "sha256": "076cc21c7fd1fcd7312c6552f1203b94778ca89814fb326b99c72e5e7b705e9f"
+    }
+   ]
+  },
+  {
+   "id": "ljekari-sr",
+   "name": "Ljekari i sestre",
+   "lang": "sr-ijek",
+   "version": "1.0.0",
+   "author": "freedole",
+   "description": "Fore za ljekare i medicinske sestre: dežurstva, uputnice, čekaonica, kafa u 3 ujutru i \"samo da vas nešto pitam\".",
+   "personality": "",
+   "jokes": 40,
+   "dir": "jokes/sr-ijek/ljekari-sr",
+   "files": [
+    {
+     "path": "jokes/medicina.txt",
+     "size": 2579,
+     "sha256": "51f76ca74a1a49840010aa7ad07e80c781996cd524862563dde39232cd32cbcb"
+    },
+    {
+     "path": "keywords.ini",
+     "size": 103,
+     "sha256": "ced22b136a19b0c4829ab7b91e221b8963c719639aec35432ec56d1daee6ce33"
+    },
+    {
+     "path": "pack.ini",
+     "size": 322,
+     "sha256": "8f881ca3e989a45be3abb31934cbe888ec19875205efd9189d5704e02fc9890e"
     }
    ]
   },
@@ -474,6 +558,34 @@
      "path": "pack.ini",
      "size": 226,
      "sha256": "9c4da2b0d17b77456fda83a9dfa752dc186d3d7c92044261945aa635dfd98cb5"
+    }
+   ]
+  },
+  {
+   "id": "penzioneri-sr",
+   "name": "Penzioneri",
+   "lang": "sr-ijek",
+   "version": "1.0.0",
+   "author": "freedole",
+   "description": "Fore za penzionere i one koji to tek postaju: penzija, bašta, komšiluk, pijaca i \"u moje vrijeme\".",
+   "personality": "",
+   "jokes": 40,
+   "dir": "jokes/sr-ijek/penzioneri-sr",
+   "files": [
+    {
+     "path": "jokes/penzija.txt",
+     "size": 2454,
+     "sha256": "f8c39a8fbbed68b60099733c6f71b3678623238d0cc5367338c3bec2f8296c41"
+    },
+    {
+     "path": "keywords.ini",
+     "size": 88,
+     "sha256": "f755cbde5314918d3d76f2db54048cdf9f8c3a43e0dc8ad919835da31a72864c"
+    },
+    {
+     "path": "pack.ini",
+     "size": 290,
+     "sha256": "096e019c2a9c4c0b3a7dc26f1f32353bbcf0866b8e32496d7ac30a424c636433"
     }
    ]
   },
@@ -685,6 +797,62 @@
    ]
   },
   {
+   "id": "racunovodje-sr",
+   "name": "Računovođe",
+   "lang": "sr-ijek",
+   "version": "1.0.0",
+   "author": "freedole",
+   "description": "Fore za računovođe: završni račun, rokovi, PDV, fiskalni i \"to je samo jedan mali račun\".",
+   "personality": "",
+   "jokes": 40,
+   "dir": "jokes/sr-ijek/racunovodje-sr",
+   "files": [
+    {
+     "path": "jokes/racunovodstvo.txt",
+     "size": 2637,
+     "sha256": "972a2ce293377a174dc5216a4c5813842309ce9ac823ffe6e5b1baecb08a07e5"
+    },
+    {
+     "path": "keywords.ini",
+     "size": 95,
+     "sha256": "675da5ef41522740f827ef71112704568df4a29b872eea9e93e3b7a44722aa51"
+    },
+    {
+     "path": "pack.ini",
+     "size": 295,
+     "sha256": "7d208d751260959c184893deda268bc0667711f5e7a7a3fb91c3b50c50506031"
+    }
+   ]
+  },
+  {
+   "id": "roditelji-sr",
+   "name": "Roditelji",
+   "lang": "sr-ijek",
+   "version": "1.0.0",
+   "author": "freedole",
+   "description": "Fore za roditelje: domaći, \"još pet minuta\", lego kockice, roditeljski sastanak i \"jesi li oprao ruke?\".",
+   "personality": "",
+   "jokes": 40,
+   "dir": "jokes/sr-ijek/roditelji-sr",
+   "files": [
+    {
+     "path": "jokes/roditelji.txt",
+     "size": 2558,
+     "sha256": "ea32a4fc8f424a99d2ff32a2cd277956045653fe14e5df73131a5ad7027a5e69"
+    },
+    {
+     "path": "keywords.ini",
+     "size": 87,
+     "sha256": "003231c9b633d37e1d2708d21513115db583a593bdc42c6420c0941155b84735"
+    },
+    {
+     "path": "pack.ini",
+     "size": 293,
+     "sha256": "2f54fa5d36e3502941501341054734e168c03031f1bc117f7182261c57f7ee3f"
+    }
+   ]
+  },
+  {
    "id": "salter-sr",
    "name": "Šalter i administracija",
    "lang": "sr-ijek",
@@ -709,6 +877,34 @@
      "path": "pack.ini",
      "size": 316,
      "sha256": "ace9331e0c354fca8a88d182634a8e0bea8fce3555c80e175efe62b3d4ec10aa"
+    }
+   ]
+  },
+  {
+   "id": "ucitelji-sr",
+   "name": "Učitelji i nastavnici",
+   "lang": "sr-ijek",
+   "version": "1.0.0",
+   "author": "freedole",
+   "description": "Fore za učitelje i nastavnike: zbornica, dnevnik, roditeljski, kontrolni, zvono i \"pas mi je pojeo zadaću\".",
+   "personality": "",
+   "jokes": 40,
+   "dir": "jokes/sr-ijek/ucitelji-sr",
+   "files": [
+    {
+     "path": "jokes/skola.txt",
+     "size": 2675,
+     "sha256": "1011e7e2f572bd13a80caf95d38161f8831323a0bbc1b3ed537ba9bd603facd6"
+    },
+    {
+     "path": "keywords.ini",
+     "size": 107,
+     "sha256": "11a8025547bd9faf1a9213bfb0f742570bdaf2698ed77f4ce94ffa2b96f3d3fc"
+    },
+    {
+     "path": "pack.ini",
+     "size": 311,
+     "sha256": "88f28947ff56b392f97abfaac2f61988bd442fa500dcde4949f7d6385f031c9b"
     }
    ]
   }
