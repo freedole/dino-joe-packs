@@ -140,6 +140,29 @@
    ]
   },
   {
+   "id": "personality-dizajner-en",
+   "name": "Personality: Designer",
+   "lang": "en",
+   "version": "1.0.0",
+   "author": "freedole",
+   "description": "Personality jokes, active only while this personality is selected.",
+   "personality": "dizajner",
+   "jokes": 30,
+   "dir": "jokes/en/personality-dizajner-en",
+   "files": [
+    {
+     "path": "jokes/dizajner.txt",
+     "size": 2126,
+     "sha256": "1cef2955b1d66a8901492835494d6bdc6f10e7754f12e5830529f77f7eb2979f"
+    },
+    {
+     "path": "pack.ini",
+     "size": 309,
+     "sha256": "53746675d2fccc661a87a10fe146fa66111afa3aec7e6e28560c9b27fb61d28e"
+    }
+   ]
+  },
+  {
    "id": "personality-filozof-en",
    "name": "Personality: Philosopher",
    "lang": "en",
@@ -655,6 +678,29 @@
      "path": "pack.ini",
      "size": 262,
      "sha256": "4f8f3a540c3f72927d4c0f2a66010842fcfd74a650630faa7c67882f00b68fbf"
+    }
+   ]
+  },
+  {
+   "id": "personality-dizajner-sr",
+   "name": "Ličnost: Dizajner",
+   "lang": "sr-ijek",
+   "version": "1.0.0",
+   "author": "freedole",
+   "description": "Fore za ličnost, aktivne samo dok je ta ličnost izabrana.",
+   "personality": "dizajner",
+   "jokes": 30,
+   "dir": "jokes/sr-ijek/personality-dizajner-sr",
+   "files": [
+    {
+     "path": "jokes/dizajner.txt",
+     "size": 2011,
+     "sha256": "c11a8f8dd8fee2c2fe876983f46b5b140ab3eb7071c243336a7601b6802db685"
+    },
+    {
+     "path": "pack.ini",
+     "size": 304,
+     "sha256": "ef017d5d2e6c50a636b3eeeb1d2c6293d647b26d88ae2180c11860216f329824"
     }
    ]
   },
