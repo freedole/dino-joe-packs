@@ -1,0 +1,33 @@
+name: Predloži foru / Suggest a joke
+description: Jedna ili više fora za postojeći ili novi paket / One or more jokes for a pack
+labels: [joke]
+body:
+  - type: textarea
+    id: jokes
+    attributes:
+      label: Fore / Jokes
+      description: Jedna fora po liniji, do ~200 znakova. Muški/ženski oblik kao {muški|ženski}. / One joke per line, max ~200 characters.
+      placeholder: "{Rekao|Rekla} sam meteoru da dođe sutra."
+    validations:
+      required: true
+  - type: dropdown
+    id: lang
+    attributes:
+      label: Jezik / Language
+      options: [sr-ijek, sr-ekav, bs, hr, en]
+    validations:
+      required: true
+  - type: input
+    id: pack
+    attributes:
+      label: Paket / Pack
+      description: Postojeći paket (npr. motoristi-sr) ili ideja za novi / Existing pack id or idea for a new one
+  - type: checkboxes
+    id: rules
+    attributes:
+      label: Pravila / Rules
+      options:
+        - label: Bez politike, nacije, vjere, psovki i stvarnih privatnih osoba / No politics, nationality, religion, swearing or real private persons
+          required: true
+        - label: Slažem se da fore idu pod licencom CC BY-SA 4.0 / I agree to license these jokes under CC BY-SA 4.0
+          required: true

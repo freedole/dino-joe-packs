@@ -1,0 +1,27 @@
+name: Ideja za paket / Pack idea
+description: Predloži novi paket (struka, hobi, tema) / Suggest a new pack (profession, hobby, topic)
+labels: [pack-idea]
+body:
+  - type: input
+    id: topic
+    attributes:
+      label: Tema / Topic
+      placeholder: "npr. medicinske sestre, ribolovci, programeri / e.g. nurses, anglers, programmers"
+    validations:
+      required: true
+  - type: dropdown
+    id: lang
+    attributes:
+      label: Jezik / Language
+      options: [sr-ijek, sr-ekav, bs, hr, en]
+  - type: textarea
+    id: examples
+    attributes:
+      label: Primjeri fora / Example jokes
+      description: Par primjera pomaže / A few examples help
+  - type: checkboxes
+    id: help
+    attributes:
+      label: Pomoć / Help
+      options:
+        - label: Mogu napisati paket i otvoriti Pull Request / I can write the pack and open a PR

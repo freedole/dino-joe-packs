@@ -37,9 +37,7 @@ ODjordje has a female version (ODjordjina). Write gendered words as `{male|femal
 
 ## Contributing
 
-1. Fork, copy `jokes/sr-ijek/odjordje-classic` as a template, rename the folder and the `id`.
-2. Write jokes, open a Pull Request.
-3. CI checks UTF-8, line length and the forbidden-words list.
+See **[CONTRIBUTING.md](CONTRIBUTING.md)**. Short version: suggest a joke via an issue (no Git needed), or copy an existing pack, write jokes and open a Pull Request. CI checks UTF-8, line length and forbidden words, and rebuilds the in-app catalog.
 
 ---
 
@@ -51,6 +49,6 @@ Sadržaj zajednice za **Dino Joe**: paketi fora, skinovi i ličnosti.
 - Jedna fora po liniji, najviše ~200 znakova.
 - Samo UTF-8 tekst, bez skripti i linkova.
 - **Bez politike, nacije, vjere i psovki.** Balkanski humor ide preko mentaliteta (kafa, komšija, mama, "biće sutra").
-- Novi paket: kopiraj `jokes/sr-ijek/odjordje-classic`, promijeni ime foldera i `id`, napiši fore i otvori Pull Request.
+- Predloži foru preko issue-a (bez Git-a) ili napravi paket i otvori Pull Request: vidi **[CONTRIBUTING.md](CONTRIBUTING.md)**.
 
 Licenca: CC BY-SA 4.0.
