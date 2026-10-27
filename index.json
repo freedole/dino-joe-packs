@@ -346,6 +346,62 @@
    ]
   },
   {
+   "id": "geodeta-sr",
+   "name": "Geodete",
+   "lang": "sr-ijek",
+   "version": "1.0.0",
+   "author": "freedole",
+   "description": "Fore za geodete: teren, međe, komšije, GPS, totalna stanica, katastar i \"samo par centimetara\".",
+   "personality": "",
+   "jokes": 40,
+   "dir": "jokes/sr-ijek/geodeta-sr",
+   "files": [
+    {
+     "path": "jokes/geodeta.txt",
+     "size": 2721,
+     "sha256": "645a65eec43a9222593c8ab3fddad74aea2a830c8b34e276f297bc3047b9f72d"
+    },
+    {
+     "path": "keywords.ini",
+     "size": 91,
+     "sha256": "d30e4ecee2a60e81b84d51937486fc4887a9858f88dc75ab687532aeb5cf38a5"
+    },
+    {
+     "path": "pack.ini",
+     "size": 286,
+     "sha256": "9d93c0e1cb942975f01426aae7a4ad70a23724097b92b327f5c95d53cc54c471"
+    }
+   ]
+  },
+  {
+   "id": "it-helpdesk-sr",
+   "name": "IT i helpdesk",
+   "lang": "sr-ijek",
+   "version": "1.0.0",
+   "author": "freedole",
+   "description": "Fore za informatičare i helpdesk: štampač, lozinke, restart, backup, DNS i \"ništa nisam dirao\".",
+   "personality": "",
+   "jokes": 40,
+   "dir": "jokes/sr-ijek/it-helpdesk-sr",
+   "files": [
+    {
+     "path": "jokes/helpdesk.txt",
+     "size": 2838,
+     "sha256": "f48634a7261b3f50b6d67253da7dfe4b3df7caa7a6c5b5a94584f91d4bfd371f"
+    },
+    {
+     "path": "keywords.ini",
+     "size": 110,
+     "sha256": "125a879f0ebb517a6f099202c97109da245b81bd7edfef04e704fb06f4525e57"
+    },
+    {
+     "path": "pack.ini",
+     "size": 296,
+     "sha256": "4eac147a1acc06f7243ec9191087726df0fad667d92fc9489017d895277118d7"
+    }
+   ]
+  },
+  {
    "id": "motoristi-sr",
    "name": "Motoristi",
    "lang": "sr-ijek",
@@ -625,6 +681,34 @@
      "path": "pack.ini",
      "size": 288,
      "sha256": "43faaf90b29f2a4d0efe0a1c09a7ebb5276d67db253be64660ef4c8ba4dc6f34"
+    }
+   ]
+  },
+  {
+   "id": "salter-sr",
+   "name": "Šalter i administracija",
+   "lang": "sr-ijek",
+   "version": "1.0.0",
+   "author": "freedole",
+   "description": "Fore za šalter i kancelariju: pečati, obrasci, rokovi, red čekanja i \"fali vam još samo jedan papir\".",
+   "personality": "",
+   "jokes": 40,
+   "dir": "jokes/sr-ijek/salter-sr",
+   "files": [
+    {
+     "path": "jokes/salter.txt",
+     "size": 2516,
+     "sha256": "4ab400073566f0cd30b943fc3663f20f8b9f4e8268bd535f2d5f7b1960fe8480"
+    },
+    {
+     "path": "keywords.ini",
+     "size": 91,
+     "sha256": "2c82397d49edb4fc950665f33e814f457d5cfe4bcb564e9d5eed86b8ae31db81"
+    },
+    {
+     "path": "pack.ini",
+     "size": 316,
+     "sha256": "ace9331e0c354fca8a88d182634a8e0bea8fce3555c80e175efe62b3d4ec10aa"
     }
    ]
   }
